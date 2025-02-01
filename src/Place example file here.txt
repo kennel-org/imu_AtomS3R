@@ -1,0 +1,2 @@
+ここにexamples\xxx Folder内のファイルをコピーしてください。
+Copy files here from examples\xxx folder
